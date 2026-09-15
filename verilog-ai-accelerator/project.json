@@ -1,0 +1,8 @@
+{
+  "id": "36",
+  "name": "36-verilog-ai-accelerator",
+  "title": "Custom AI Hardware Accelerator",
+  "language": "Verilog",
+  "domain": "RTL Digital Design & AI Accelerator ASICs",
+  "description": "Synthesizable 4x4 INT8 systolic array tensor processing accelerator written in Verilog (IEEE 1364) with cycle-accurate pipelined multiply-accumulate (MAC) units."
+}
