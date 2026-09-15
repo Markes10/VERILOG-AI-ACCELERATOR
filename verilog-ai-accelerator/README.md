@@ -1,4 +1,4 @@
-# 36 - Synthesizable 4x4 Systolic Tensor Core Accelerator (Verilog)
+# Synthesizable 4x4 Systolic Tensor Core Accelerator (Verilog)
 
 ## Executive Overview
 A fully synthesizable **4x4 INT8 2D mesh systolic array** matrix multiplication accelerator written in **IEEE 1364 Verilog**. It implements pipelined Multiply-Accumulate (MAC) Processing Elements (PEs) with skewed data wavefronts, designed for deep learning inference edge silicon.
